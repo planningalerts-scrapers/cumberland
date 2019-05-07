@@ -35,12 +35,7 @@ results.each do |result|
   record['date_received']     = Date.strptime(result.text.split("Lodged:")[1].split("Applicant")[0].squeeze("\r\n ").strip, '%d/%m/%Y').to_s
 
   # Saving data to DB
-  if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
-    puts "Saving record " + record['council_reference'] + ", " + record['address']
-    # puts record
-    ScraperWiki.save_sqlite(['council_reference'], record)
-  else
-    puts "Skipping already saved record " + record['council_reference']
-  end
+  puts "Saving record " + record['council_reference'] + ", " + record['address']
+  # puts record
+  ScraperWiki.save_sqlite(['council_reference'], record)
 end
-
