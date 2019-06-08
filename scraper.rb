@@ -2,21 +2,10 @@ require 'scraperwiki'
 require 'mechanize'
 require 'date'
 
-base_url    = "http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/"
-
 time = Time.new
 
-case ENV['MORPH_PERIOD']
-  when 'lastmonth'
-  	period = "lastmonth"
-  when 'thismonth'
-  	period = "thismonth"
-  else
-  	period = "thisweek"
-end
-
-page_url = base_url + "SearchApplication.aspx?k=LodgementDate&t=&d=" + period
-puts "Scraping for " + period + ", changable via MORPH_PERIOD variable"
+base_url    = "http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/"
+page_url = base_url + "SearchApplication.aspx?k=LodgementDate&t=&d=thisweek"
 
 agent   = Mechanize.new
 page    = agent.get(page_url)
