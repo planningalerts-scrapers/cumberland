@@ -5,7 +5,7 @@ require 'date'
 time = Time.new
 
 base_url    = "http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/"
-page_url = base_url + "SearchApplication.aspx?k=LodgementDate&t=&d=thisweek"
+page_url = base_url + "SearchApplication.aspx?k=LodgementDate&t=&d=last14days"
 
 agent   = Mechanize.new
 page    = agent.get(page_url)

@@ -1,10 +1,84 @@
 ---
+- council_reference: CDC-5078/2019.2 MERRYLANDS WEST
+  address: 69 Bruce Street MERRYLANDS WEST NSW 2160
+  description: Complying Developments - Modification to internal walk in waradrobe
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005078.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: CDC-5151/2019 GREYSTANES
+  address: 56 Hopman Street GREYSTANES NSW 2145
+  description: Complying Developments - Pool Infill/Demoltion
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005151.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: CDC-5152/2019 MERRYLANDS
+  address: 29 Warwick Road MERRYLANDS NSW 2160
+  description: Complying Developments - Construction of Awing
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005152.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: CDC-5153/2019 WENTWORTHVILLE
+  address: 8 Mildred Street WENTWORTHVILLE NSW 2145
+  description: Complying Developments - Subdivision (Strata)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005153.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: CDC-5156/2019 GUILDFORD WEST
+  address: 32 James Street GUILDFORD WEST NSW 2161
+  description: Complying Developments - Demolition and Construation 2x2 Storey Dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005156.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: CDC-5157/2019 WENTWORTHVILLE
+  address: 27 B Garfield Street WENTWORTHVILLE NSW 2145
+  description: Complying Developments - Demolition
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005157.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: CDC-5159/2019 GREYSTANES
+  address: 144 Braeside Road GREYSTANES NSW 2145
+  description: Complying Developments - Demolition of house, shed and poll
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005159.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: CDC-5160/2019 MERRYLANDS
+  address: 71 Mary Street MERRYLANDS NSW 2160
+  description: Complying Developments - Construction of secondary dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005160.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: CDC-5161/2019 MERRYLANDS WEST
+  address: 22 Edna Avenue MERRYLANDS WEST NSW 2160
+  description: Complying Developments - Demolition of existing garage and construction
+    of a secondary dwelling with an attahced garage
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005161.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: CDC-5162/2019 GREYSTANES
+  address: 4 / 81 Hibiscus Street GREYSTANES NSW 2145
+  description: Complying Developments - Fit out for Bakery
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005162.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: CDC-5163/2019 MERRYLANDS
   address: 18 Fowler Road MERRYLANDS NSW 2160
   description: Complying Developments - Swimming pools/spas
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005163.001&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-03'
+- council_reference: CDC-5164/2019 WESTMEAD
+  address: 5 Nolan Crescent WESTMEAD NSW 2145
+  description: Complying Developments - Demolition of a house and garage
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005164.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: CDC-5165/2019 WENTWORTHVILLE
+  address: 66 Essington Street WENTWORTHVILLE NSW 2145
+  description: Complying Developments - 19 Lot Strata Subdivision (Lots 98 & 99 DP
+    14951)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005165.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: CDC-5166/2019 SOUTH WENTWORTHVILLE
   address: 73 Berkeley Street SOUTH WENTWORTHVILLE NSW 2145
   description: Complying Developments - Demolition of existing Dwelling and Construction
@@ -18,6 +92,61 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005167.001&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-06'
+- council_reference: CDC-5168/2019 MERRYLANDS WEST
+  address: 84 Eddy Street MERRYLANDS WEST NSW 2160
+  description: Complying Developments - Secondary dwelling/Granny Flat
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=006.2019.00005168.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: CDSPPC-107/2019 BERALA
+  address: 31 Sixth Avenue BERALA NSW 2141
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-190454/01.
+    Demolition of a house, garage & carport.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276087&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: CDSPPC-108/2019 AUBURN
+  address: 110 Sheffield Street AUBURN NSW 2144
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-190085/01.
+    Proposed first floor alterations and additions to existing dwelling house.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276111&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: CDSPPC-109/2019 BERALA
+  address: 31 Sixth Avenue BERALA NSW 2141
+  description: Complying Development SEPP Cmply Private Certifier - CDC-0069/18/01.
+    New dwelling and associated landscapes works.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276154&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: CDSPPC-110/2019 LIDCOMBE
+  address: 146 John Street LIDCOMBE NSW 2141
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-SXC2019-/00022.
+    Construction of secondary dwelling and studio.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276162&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: CDSPPC-111/2019 REGENTS PARK
+  address: 25 Downing Avenue REGENTS PARK NSW 2143
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-2019-0319.
+    Alterations & additions to existing dwelling house.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276181&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: CDSPPC-112/2019 BERALA
+  address: 2 Clarke Street BERALA NSW 2141
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-190005.
+    Subdivision (Strata) of 5 townhouses.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276184&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: CDSPPC-113/2019 AUBURN
+  address: 33 Cumberland Road AUBURN NSW 2144
+  description: Complying Development SEPP Cmply Private Certifier - CDCPC-201933CUM.
+    Construction of two storey rear additions.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276219&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
 - council_reference: CDSPPC-114/2019 GUILDFORD
   address: 65 Mountford Avenue GUILDFORD NSW 2161
   description: Complying Development SEPP Cmply Private Certifier - CDCPC-190185/01.
@@ -41,6 +170,28 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276269&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-04'
+- council_reference: CDSPPC-353/2018/A AUBURN
+  address: 111 Sheffield Street AUBURN NSW 2144
+  description: Complying Development SEPP Cmply Private Certifier - Section 87 Modification
+    CDC180657/01 - Front elevation (South) to be changed from brick to light weight.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276085&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-1008742/2009/A GRANVILLE
+  address: 114 Louis Street GRANVILLE NSW 2142
+  description: Development Applications - Section 4.55(2) modification to replace
+    the pergola with verandah and addition to the first floor of the 2 storey dwelling
+    for additional bedroom and relocate the rear balcony
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276197&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: DA-111/2014.3 PENDLE HILL
+  address: 14 Civic Avenue PENDLE HILL NSW 2145
+  description: DA's - S.4.55(1A) application to modify condition no. 15 with regards
+    to timing of S.7.11 contribution payments
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2014.00000111.003&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: DA-12980/2015/A GUILDFORD
   address: 536 Woodville Road GUILDFORD NSW 2161
   description: Development Applications - Section 4.56 modification removal of privacy
@@ -50,6 +201,13 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276285&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
+- council_reference: DA-139/2018/A SOUTH GRANVILLE
+  address: 2 Banksia Street SOUTH GRANVILLE NSW 2142
+  description: Development Applications - Section 4.55(1A) application to modify the
+    subdivision condition.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276354&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
 - council_reference: DA-143/2017/B LIDCOMBE
   address: 2 John Street LIDCOMBE NSW 2141
   description: Development Applications - Section 4.55(2) application to modify alterations
@@ -57,6 +215,114 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276293&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
+- council_reference: DA-152/2019 AUBURN
+  address: 136 Auburn Road AUBURN NSW 2144
+  description: Development Applications - Construction of a secondary dwelling (granny
+    flat) and attached awning at the rear
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276062&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-153/2019 LIDCOMBE
+  address: 17 Nottinghill Road LIDCOMBE NSW 2141
+  description: Development Applications - Demolition of existing structures and construction
+    of a 48 place childcare facility with basement level parking to operate 7.00 a.m
+    to 6.00 p.m. Monday to Friday
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276065&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-154/2019 AUBURN
+  address: 258 Chisholm Road AUBURN NSW 2144
+  description: Development Applications - Demolition existing structures and construction
+    of a two storey dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276067&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-155/2019 REGENTS PARK
+  address: 29 Regent Street REGENTS PARK NSW 2143
+  description: Development Applications - Use of an unauthorised outbuilding as a
+    secondary dwelling (granny flat)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276070&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-156/2019 BERALA
+  address: 45 Tilba Street BERALA NSW 2141
+  description: Development Applications - Demolition of existing structures and construction
+    of a two storey dwelling with attached secondary dwelling (granny flat)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276083&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-157/2019 MERRYLANDS
+  address: 25 Albion Avenue MERRYLANDS NSW 2160
+  description: Development Applications - Alterations and additions to existing dwelling
+    including the provision of a storage room and ancillary awnings
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276104&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-158/2019 AUBURN
+  address: 17 Stanhope Street AUBURN NSW 2144
+  description: Development Applications - Strata subdivision of existing attached
+    dual occupancy
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276106&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-159/2019 GRANVILLE
+  address: 3 Myrtle Street GRANVILLE NSW 2142
+  description: Development Applications - Demolition of existing structures, associated
+    tree removal and construction of a single storey dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276122&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-160/2019 LIDCOMBE
+  address: 72 Cobden Parkes Crescent LIDCOMBE NSW 2141
+  description: Development Applications - Alterations and additions to rear of existing
+    dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276127&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-161/2019 BERALA
+  address: 11 Regent Street BERALA NSW 2141
+  description: Development Applications - Construction of a 2 bedroom secondary dwelling
+    (granny flat).
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276151&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: DA-162/2019 GRANVILLE
+  address: 10 Celia Street GRANVILLE NSW 2142
+  description: Development Applications - Demolition of existing structures and construction
+    of a two storey dwelling
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276147&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: DA-163/2019 AUBURN
+  address: 40 Provincial Street AUBURN NSW 2144
+  description: Development Applications - Unauthorised internal work to existing dwelling
+    to provide additional kitchen on the first floor, unauthorised external additions
+    to the detached storage area to provide additional kitchen and convert the detached
+    storage area to become a studio
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276164&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: DA-164/2019 GRANVILLE
+  address: 83 Louis Street GRANVILLE NSW 2142
+  description: Development Applications - Demolish existing dwelling & construction
+    of new two storey dwelling house.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276199&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: DA-165/2019 LIDCOMBE
+  address: 10 Adderley Street East LIDCOMBE NSW 2141
+  description: Development Applications - Fitout and use of premises for the purpose
+    of a joinery manufacturer
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276201&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: DA-166/2019 REGENTS PARK
+  address: 405 Park Road REGENTS PARK NSW 2143
+  description: Development Applications - Construction of covered pergola and privacy
+    screen to fist floor rear terrace
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276205&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: DA-167/2019 AUBURN
   address: 57-59 Rawson Street AUBURN NSW 2144
   description: Development Applications - Fitout and use of premises as a hair salon
@@ -79,6 +345,12 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276245&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-04'
+- council_reference: DA-170/2015.2 GREYSTANES
+  address: 24 Hillary Street GREYSTANES NSW 2145
+  description: DA's - s4.55 (2) (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2015.00000170.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: DA-170/2019 SOUTH GRANVILLE
   address: 2 Banksia Street SOUTH GRANVILLE NSW 2142
   description: Development Applications - Demolition of existing dwelling and construction
@@ -111,6 +383,92 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276312&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-06'
+- council_reference: DA-174/2019 LIDCOMBE
+  address: 99 John Street LIDCOMBE NSW 2141
+  description: Development Applications - Construction of a new two storey dwelling
+    and a detached a secondary dwelling (granny flat)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276325&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-175/2019 LIDCOMBE
+  address: 92 Parramatta Road LIDCOMBE NSW 2141
+  description: Development Applications - Inclusion of a liquor store in the Woolworths
+    Supermarket
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276341&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-176/2019 REGENTS PARK
+  address: 5 Amy Street REGENTS PARK NSW 2143
+  description: Development Applications - Change of use of existing shop to a place
+    of worship
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276342&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-177/2019 AUBURN
+  address: 15 Cornwall Road AUBURN NSW 2144
+  description: Development Applications - Change of use of existing dwelling at rear
+    as a dual occupancy.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276346&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-178/2019 LIDCOMBE
+  address: 116 Joseph Street LIDCOMBE NSW 2141
+  description: Development Applications - New single secondary dwelling - Three bedroom
+    Granny Flat
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276345&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-183/2019 PEMULWUY
+  address: 44 Driftway Drive PEMULWUY NSW 2145
+  description: DA's - Attached Dual Occupancy and Torrens Subdivision and Demolition
+    (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000183.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-184/2019 GREYSTANES
+  address: 76 Maple Street GREYSTANES NSW 2145
+  description: DA's - Demolition and Attached Dual Occupancy and Subdivision (DRAFT)
+    Demolition Attached Dual Occupancy Subdivision
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000184.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-185/2019 SOUTH WENTWORTHVILLE
+  address: 15 Brotherton Street SOUTH WENTWORTHVILLE NSW 2145
+  description: DA's - Attached Dual Occupancy and Subdivision (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000185.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-186/2019 MERRYLANDS WEST
+  address: 161 Fowler Road MERRYLANDS WEST NSW 2160
+  description: DA's - Demolition and Attached Dual Occupancy and Subdivision (DRAFT)
+    Demolition Attached Dual Occupancy Subdivision
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000186.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: DA-187/2019 PENDLE HILL
+  address: 113 Targo Road PENDLE HILL NSW 2145
+  description: DA's - Attached Dual Occupancy and Demolition and Subdivision (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000187.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-188/2019 GUILDFORD WEST
+  address: 51 Robertson Street GUILDFORD WEST NSW 2161
+  description: DA's - Demolition and Construction of Garage and out building (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000188.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-189/2019 GREYSTANES
+  address: 1 Bowral Street GREYSTANES NSW 2145
+  description: DA's - Attached Dual Occupancy and Demolition and (Torrens) Subdivision
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000189.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: DA-190/2019 GREYSTANES
+  address: 1 Enid Street GREYSTANES NSW 2145
+  description: DA's - Detached Dual Occupancy and Demolition and Subdivision (Draft)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000190.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: DA-191/2019 YENNORA
   address: 7 Kiora Crescent YENNORA NSW 2161
   description: DA's - Additions/alterations Warehouse and carparking (DRAFT)
@@ -157,6 +515,38 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000197.001&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-06'
+- council_reference: DA-198/2019 GUILDFORD
+  address: 5 Phyllis Crescent GUILDFORD NSW 2161
+  description: DA's - Attached Dual Occupancy and Demolition and Subdivision (DRAFT))
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000198.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-199/2019 GUILDFORD WEST
+  address: 2 Carmen Street GUILDFORD WEST NSW 2161
+  description: DA's - Attached Dual Occupancy and Demolition and Subdivision (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000199.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-200/2019 GUILDFORD WEST
+  address: 78 Fairfield Road GUILDFORD WEST NSW 2161
+  description: DA's - Convert garage to Granny Flat (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000200.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-201/2019 MERRYLANDS
+  address: 30 Ridge Street MERRYLANDS NSW 2160
+  description: DA's - Demolition and Attached Dual Occupancy (DRAFT) Demolition Attached
+    Dual Occupancy
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000201.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-202/2019 MERRYLANDS
+  address: 32 Ridge Street MERRYLANDS NSW 2160
+  description: DA's - Demolition and Attached Dual Occupancy (DRAFT) Demolition Attached
+    Dual Occupancy
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2019.00000202.001&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
 - council_reference: DA-216/2018.2 MERRYLANDS
   address: 85 Myall Street MERRYLANDS NSW 2160
   description: DA's - Detached Dual Occupancy and Demolition and Subdivision and Affordable
@@ -164,12 +554,54 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2018.00000216.002&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
+- council_reference: DA-219/2011/D LIDCOMBE
+  address: 11 John Street LIDCOMBE NSW 2141
+  description: Development Applications - Section 4.55(2) application to modify two
+    bedrooms and small study.
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276337&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-253/2018.2 GUILDFORD WEST
+  address: 20 Faulds Road GUILDFORD WEST NSW 2161
+  description: DA's - Swimming pool for unit 2 (Draft)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2018.00000253.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-306/2018/A REGENTS PARK
+  address: 102 Amy Street REGENTS PARK NSW 2143
+  description: Development Applications - Section 4.55(1A) application to modify the
+    garage setback from Yukka Road from 4 metres to 3.3 metres
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276075&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-307/2018/A LIDCOMBE
+  address: 105 Platform Street LIDCOMBE NSW 2141
+  description: Development Applications - Section 4.55(1) application to delete deferred
+    commencment conditions requiring a building certificate and opening from living
+    area
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276074&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: DA-319/2018.2 PEMULWUY
+  address: 39 Winnima Circuit PEMULWUY NSW 2145
+  description: DA's - S4.55 (2) - (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2018.00000319.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: DA-326/2018.2 PEMULWUY
   address: 13 Winnima Circuit PEMULWUY NSW 2145
   description: DA's - Dwelling
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2018.00000326.002&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-03'
+- council_reference: DA-327/2014/B LIDCOMBE
+  address: Lot 7046 Church Street LIDCOMBE
+  description: Development Applications - Section 4.55(1A) application to modify kitchen
+    fitout requirements (conditions 41 & 42(b)) and delete condition number 80 relating
+    to line marking
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276156&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: DA-328/2015/A AUBURN
   address: 70 Kihilla Road AUBURN NSW 2144
   description: Development Applications - Section 4.55(1a) application change kitchen
@@ -185,6 +617,25 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276231&pprs=P
   date_scraped: '2019-05-15'
   date_received: '2019-06-03'
+- council_reference: DA-422/2017/A REGENTS PARK
+  address: 43 Amy Street REGENTS PARK NSW 2143
+  description: Development Applications - Section 4.55(1A) modification to alter the
+    internal layout and window sizes/locations of the secondary dwelling (granny flat)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=276136&pprs=P
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-492/2015.2 MAYS HILL
+  address: 3 Patricia Street MAYS HILL NSW 2145
+  description: DA's - To provide a high shield wall behind the hydrant booster (Draft)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2015.00000492.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: DA-493/2012.8 MERRYLANDS
+  address: 13 - 15 Neil Street MERRYLANDS NSW 2160
+  description: DA's - Amendments to conditions of consent Section 4.55(1) (DRAFT)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2012.00000493.008&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: DA-5/2018.2 GUILDFORD
   address: 469 Guildford Road GUILDFORD NSW 2161
   description: DA's - Boarding House- DA modification (DRAFT) Boarding House > 300m2
@@ -198,6 +649,12 @@
   info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2011.00000511.002&pprs=A
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
+- council_reference: DA-63/2017.2 GREYSTANES
+  address: 54 Maple Street GREYSTANES NSW 2145
+  description: DA's - Added a stepdown to a dwelling (Draft)
+  info_url: http://eplanning.cumberland.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=005.2017.00000063.002&pprs=A
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
 - council_reference: DA-89/2018/A SOUTH GRANVILLE
   address: 7 Dellwood Street SOUTH GRANVILLE NSW 2142
   description: Development Applications - Section 4.55(1a) modification to amend condition
